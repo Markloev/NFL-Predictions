@@ -1,0 +1,15 @@
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\bin\Debug\NFL Scraper.exe.config
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\bin\Debug\NFL Scraper.exe
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\bin\Debug\NFL Scraper.pdb
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\bin\Debug\Google.Protobuf.dll
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\bin\Debug\MySql.Data.dll
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\bin\Debug\Google.Protobuf.xml
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\bin\Debug\MySql.Data.xml
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\obj\Debug\NFL Scraper.csprojAssemblyReference.cache
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\obj\Debug\NFL Scraper.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\obj\Debug\NFL Scraper.csproj.CopyComplete
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\obj\Debug\NFL Scraper.exe
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\obj\Debug\NFL Scraper.pdb
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mark\Documents\NFL Scraper\NFL Scraper\NFL Scraper\bin\Debug\HtmlAgilityPack.xml

@@ -1,0 +1,16 @@
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\obj\Debug\NFLPredictions.Properties.Resources.resources
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\obj\Debug\NFLPredictions.TeamDetails.resources
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\obj\Debug\NFLPredictions.csproj.GenerateResource.cache
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\obj\Debug\NFLPredictions.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\bin\Debug\NFLPredictions.exe.config
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\bin\Debug\NFLPredictions.exe
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\bin\Debug\NFLPredictions.pdb
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\bin\Debug\Google.Protobuf.dll
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\bin\Debug\MySql.Data.dll
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\bin\Debug\Google.Protobuf.xml
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\bin\Debug\MySql.Data.xml
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\obj\Debug\NFLPredictions.csproj.CopyComplete
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\obj\Debug\NFLPredictions.exe
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\obj\Debug\NFLPredictions.pdb
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\obj\Debug\NFLPredictions.csprojAssemblyReference.cache
+C:\Users\Mark\Documents\NFL Predictions\NFLPredictions\NFLPredictions\obj\Debug\NFLPredictions.Standings.resources
